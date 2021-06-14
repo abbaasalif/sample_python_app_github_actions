@@ -1,0 +1,8 @@
+namespace:
+  name: test
+ 
+image:
+  repository: abbaasalif/python-helloworld 
+  tag: latest
+
+replicaCount: 3
